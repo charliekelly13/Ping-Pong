@@ -1,5 +1,6 @@
 # Ping-Pong
 A continuation of Youtube guide https://www.youtube.com/watch?v=yD0WzbKJcOg&amp;t=1s
+
 Additional features include:
 - Selectable AI difficulties
 - Improved UI
